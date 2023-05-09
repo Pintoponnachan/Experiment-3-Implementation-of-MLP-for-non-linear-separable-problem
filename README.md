@@ -43,7 +43,7 @@ Step 4 : Test for the XOR patterns.
 Developed By: Pinto Ponnachan 
 
 Register No: 212221040121
-'''
+***
 import numpy as np
 import pandas as pd
 import io
@@ -113,7 +113,7 @@ test=np.array([[1],[0]])
 predict(w1,w2,test)
 test=np.array([[1],[1]])
 predict(w1,w2,test)
-'''
+***
  **OUTPUT** 
 
 ![Bro](https://user-images.githubusercontent.com/131936892/237013251-ee62e451-99f9-4fe3-a761-78466faf92af.jpg)

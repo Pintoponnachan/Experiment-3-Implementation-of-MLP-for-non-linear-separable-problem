@@ -44,7 +44,7 @@ Developed By: Pinto Ponnachan
 
 Register No: 212221040121
 
-'''import numpy as np
+```import numpy as np
 import pandas as pd
 import io
 import matplotlib.pyplot as plt
@@ -112,7 +112,7 @@ print('Input',' Output')
 test=np.array([[1],[0]])
 predict(w1,w2,test)
 test=np.array([[1],[1]])
-predict(w1,w2,test)'''
+predict(w1,w2,test)```
 
  **OUTPUT** 
 
